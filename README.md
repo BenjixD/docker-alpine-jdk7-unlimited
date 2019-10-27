@@ -7,5 +7,5 @@ Latest Oracle Java 7: `7u80-b15`
 
 ## Usage
 ```
-docker run --rm benjixd/benjixd/alpine-jdk7-jce-unlimited
+docker run --rm benjixd/alpine-jdk7-jce-unlimited
 ```
